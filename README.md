@@ -1,6 +1,6 @@
 <h1 align="center">Attack on Titan Characters App</h1>
 
-![cover](https://github.com/user-attachments/assets/7143eed7-dca0-4941-ae01-87e7d9f6b63a)
+![cover1](https://github.com/user-attachments/assets/54fd7abf-47fa-4c22-930e-3ad2c3cec675)
 
 ## Description
 
