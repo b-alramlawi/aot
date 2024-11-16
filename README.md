@@ -1,16 +1,43 @@
-# aot
+<h1 align="center">Attack on Titan Characters App</h1>
 
-A new Flutter project.
+![cover](https://github.com/user-attachments/assets/7143eed7-dca0-4941-ae01-87e7d9f6b63a)
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+A simple Flutter app to fetch and display information about characters from Attack on Titan. The app uses Flutter's clean UI framework to list characters and provide their details in an engaging and minimal interface.
 
-A few resources to get you started if this is your first Flutter project:
+## App Images 
+Splash | All | All
+--- | --- | --- |
+![aot1](https://github.com/user-attachments/assets/202ad3d7-3fb2-481a-8f65-b1942a29cbad) | ![aot2](https://github.com/user-attachments/assets/5413b59e-e98e-4872-818e-765522ab561f) | ![aot3](https://github.com/user-attachments/assets/914b23ca-ec94-4a38-83d8-7a6bd708cbc8)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Details | Search
+--- | --- |
+ ![aot4](https://github.com/user-attachments/assets/6a154373-a074-41be-92a3-72e6bc7c1138) | ![aot5](https://github.com/user-attachments/assets/f43b1ef3-bdef-42b4-b805-a64cf2c2f574)
+<br />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure 📁
+
+This Flutter project utilizes a clean architecture approach to enhance maintainability and scalability. The project structure is organized as follows:
+
+- `lib/core/`: Contains core utilities and functionalities used throughout the application.
+- `lib/features/`: Organized by feature modules, each containing its own presentation, domain, and data layers.
+- `lib/main.dart`: The entry point of the application.
+
+This structure promotes a clear separation of concerns and facilitates easier management and extension of the codebase.
+
+![CleanArchitecture](https://github.com/user-attachments/assets/e0695060-f965-45c4-ae2b-d3f30cce9df8)
+
+
+## Technologies 🛠️
+
+This project leverages the following technologies:
+
+- **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Dart**: The programming language used to write Flutter applications.
+- **Provider**: A state management solution that simplifies the management of app state.
+- **Clean Architecture**: An architectural pattern that promotes separation of concerns and maintainability.
+- **SQFlite**: A plugin for SQLite database management within Flutter applications.
+- **Material 3**: The latest iteration of Material Design, providing modern UI components and design elements.
+
+These technologies work together to create a robust and scalable application.
