@@ -35,9 +35,10 @@ This project leverages the following technologies:
 
 - **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - **Dart**: The programming language used to write Flutter applications.
-- **Provider**: A state management solution that simplifies the management of app state.
+- **Flutter Bloc**: A predictable state management library that helps implement the BLoC (Business Logic Component) design pattern.
 - **Clean Architecture**: An architectural pattern that promotes separation of concerns and maintainability.
-- **SQFlite**: A plugin for SQLite database management within Flutter applications.
+- **API with Dio**: A powerful and easy-to-use HTTP client for Dart, used to fetch data from APIs.
+- **Caching**: Efficient data caching techniques to improve performance and reduce unnecessary API calls.
 - **Material 3**: The latest iteration of Material Design, providing modern UI components and design elements.
 
 These technologies work together to create a robust and scalable application.
